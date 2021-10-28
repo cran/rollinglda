@@ -2,7 +2,7 @@
 [![CRAN](https://www.r-pkg.org/badges/version/rollinglda)](https://cran.r-project.org/package=rollinglda)
 [![R build status](https://github.com/JonasRieger/rollinglda/workflows/R-CMD-check/badge.svg)](https://github.com/JonasRieger/rollinglda/actions)
 [![Build status](https://ci.appveyor.com/api/projects/status/88s2flwd8o4b067k?svg=true)](https://ci.appveyor.com/project/JonasRieger/rollinglda)
-[![codecov](https://codecov.io/gh/JonasRieger/rollinglda/branch/main/graph/badge.svg?token=6BM1Z3A2D8)](https://codecov.io/gh/JonasRieger/rollinglda)
+[![codecov](https://codecov.io/gh/JonasRieger/rollinglda/branch/main/graph/badge.svg?token=6BM1Z3A2D8)](https://app.codecov.io/gh/JonasRieger/rollinglda)
 [![DOI](https://zenodo.org/badge/392967136.svg)](https://zenodo.org/badge/latestdoi/392967136)
 
 ## Construct Consistent Time Series from Textual Data
@@ -12,7 +12,7 @@ RollingLDA is a rolling version of the Latent Dirichlet Allocation. By a sequent
 Please cite the package using the BibTeX entry, which is obtained by the call ``citation("rollinglda")``.
 
 ## References
-* TBA
+* Rieger, J., Jentsch, C. & Rahnenführer, J. (2021). RollingLDA: An Update Algorithm of Latent Dirichlet Allocation to Construct Consistent Time Series from Textual Data. Accepted for [Findings of EMNLP 2021](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/IWuS/Forschung/rollinglda.pdf).
 
 ## Related Software
 * [tm](https://CRAN.R-project.org/package=tm) is useful for preprocessing text data.
