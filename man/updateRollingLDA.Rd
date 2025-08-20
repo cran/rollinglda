@@ -91,7 +91,7 @@ Default is 0, which means "end the fitting".}
 [\code{named list}] with entries
  \describe{
   \item{\code{id}}{[\code{character(1)}] See above.}
-  \item{\code{lda}}{\code{\link{LDA}} object of the fitted RollingLDA.}
+  \item{\code{lda}}{\code{\link[ldaPrototype]{LDA}} object of the fitted RollingLDA.}
   \item{\code{docs}}{[\code{named list}] with modeled texts in a preprocessed format.
   See \code{\link[tosca]{LDAprep}}}
   \item{\code{dates}}{[\code{named Date}] with dates of the modeled texts.}
